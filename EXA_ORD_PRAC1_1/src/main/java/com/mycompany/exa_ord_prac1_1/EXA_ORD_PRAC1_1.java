@@ -8,7 +8,7 @@ public class EXA_ORD_PRAC1_1 {
 
     public static void main(String[] args) {
         //Datos del Equipo.
-        String Equipo ="Apple Pie";
+        String Equipo ="Backyardigans";
         String Proyecto = "Proyecto Final";
         
         //Datos de los Integrantes.
